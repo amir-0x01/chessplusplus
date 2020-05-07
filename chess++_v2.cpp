@@ -22,7 +22,7 @@
 #include <thread>
 
 //GAME
-#include "chess++.h"
+#include "chess++.hpp"
 
 #define output(x) std::cout << x << std::endl
 std::string fun_facts [] = {"The word “checkmate” comes from the Arabic word “shah mat” which translates to “The king is dead” in English.",
