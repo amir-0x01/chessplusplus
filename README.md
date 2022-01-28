@@ -1,5 +1,5 @@
 # chessplusplus
-A simple chess game which can be played on the same screen or on two separate machines.
+A simple chess game which can be played on the same screen or on two separate machines using UNIX socket programming.
 
 # RULES:
 - In order to move a piece, one must follow the following typing rule. A1A2 means select the piece in position A1 and move it to A2 (fairly simple).
